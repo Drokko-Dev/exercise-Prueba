@@ -1,3 +1,14 @@
-body{
-    background: #BDBDBD;
+body {
+  background: #bdbdbd;
+  font-family: system-ui, sans-serif;
+}
+
+.css-text {
+  h1 {
+    font-size: 7rem;
+  }
+  p {
+    font-size: 5rem;
+    font-weight: 500;
+  }
 }
